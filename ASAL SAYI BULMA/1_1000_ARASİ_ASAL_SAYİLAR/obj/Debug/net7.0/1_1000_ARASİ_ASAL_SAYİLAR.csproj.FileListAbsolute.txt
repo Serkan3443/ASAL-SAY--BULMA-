@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\bin\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\bin\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.deps.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\bin\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\bin\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\bin\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\refint\1_1000_ARASİ_ASAL_SAYİLAR.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\1_1000_ARASİ_ASAL_SAYİLAR.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\1_1000_ARASİ_ASAL_SAYİLAR\1_1000_ARASİ_ASAL_SAYİLAR\obj\Debug\net7.0\ref\1_1000_ARASİ_ASAL_SAYİLAR.dll
